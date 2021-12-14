@@ -93,6 +93,6 @@ main{
 
 @media screen and (max-width: 568px){
     .movie{
-        margin: auto;
+        margin:20px auto;
     }
 }
